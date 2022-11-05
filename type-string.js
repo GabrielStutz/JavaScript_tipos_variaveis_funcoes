@@ -5,10 +5,10 @@ const string_numeros = "34567";
 
 const citacao = "Meu nome é ";
 const meuNome = "Leonardo";
-console.log(citacao);
+console.log(citacao)
 
 //concatenação (+)
 
-console.log(citacao + meuNome);
+console.log(citacao + meuNome)
 
-//template string OU template literal
+//template string OU template literal:

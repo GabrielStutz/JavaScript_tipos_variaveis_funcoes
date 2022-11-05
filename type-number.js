@@ -7,7 +7,7 @@ const segundoNumero = 2;
 
 const operacaoMatematica = primeiroNumero + segundoNumero;
 
-console.log(operacaoMatematica);
+console.log(operacaoMatematica)
 
 //ponto flutuante
 
@@ -22,4 +22,4 @@ console.log(novaOperacao)
 
 const alura = "Alura";
 
-console.log(alura * primeiroNumero);
+console.log(alura * primeiroNumero)
