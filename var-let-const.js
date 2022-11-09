@@ -1,3 +1,10 @@
+// tipagem dinâmica: não exige declarações de tipos de dados, pois são capazes de escolher que tipo utilizar dinamicamente cada variável.
+//untyped: sem tipagem.
+//Multiparadigma: A noção de paradigmas de programação é uma forma de classificar as linguagens de programação de acordo com o estilo de programação de computadores. Características de várias linguagens de programação determinam quais paradigmas elas pertencem; Como resultado, alguns idiomas caem em apenas em um paradigma, ao passo que outros cair em vários paradigmas. Alguns paradigmas estão preocupados principalmente com implicações para o modelo de execução da linguagem, como permitir que os efeitos secundários, ou se a sequência de operações é definido pelo modelo de execução. Outros paradigmas estão preocupados principalmente com a maneira que o código é organizado, como o agrupamento de código em unidades, juntamente com o estado que é modificado pelo código. No entanto, outros estão preocupados principalmente com o estilo de sintaxe e gramática. Se tiver que resumir em uma frase: é apenas um estilo de como escrever um código. É o jeitão que o texto (código) ficará em linhas gerais.
+
+//let minhaVar = 546;
+//minhaVar = "546";
+//minhaVar = true;
 /*
 var: the var statement declares a function-scoped or globally-scoped variable, optionally initializing it to a value.var declarations, wherever they occur, are processed before any code is executed. This is called hoisting and is discussed further below. 
 The scope of a variable declared with var is its current execution context and closures thereof, which is either the enclosing function and functions declared within it, or, for variables declared outside any function, global. Duplicate variable declarations using var will not trigger an error, even in strict mode, and the variable will not lose its value, unless another assignment is performed.
